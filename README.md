@@ -6,9 +6,9 @@ Proyecto de Api Rest con microservicios desplegados en un Servidor Eureka, Sprin
 
 Para iniciar el proyecto debe realizarse en el siguiente orden:
 
-1.- Iniciar eureka service
-2.- Iniciar artist service
-3.- Iniciar album service
-4.- Iniciar gateway service
+1. Iniciar eureka service
+2. Iniciar artist service
+3. Iniciar album service
+4. Iniciar gateway service
 
 
